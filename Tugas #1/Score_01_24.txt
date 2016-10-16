@@ -1,0 +1,10 @@
++10 tugas selesai minimal 5 lagu
++10 untuk 5 link ok
+-5 lagu tanpa gmbar
++2 untuk gambar background index.html
++5 untuk gambar background index.html
++5 back to index.html
++2 link ke facebook anda
+-5 untuk yang tidak terhubung ke github
+---------------------------------------
+total nilai 24
