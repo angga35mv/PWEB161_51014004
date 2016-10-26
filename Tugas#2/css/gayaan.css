@@ -1,6 +1,6 @@
 body
 {
-  background-color: #ddee00;
+  background-color: rgb(149, 13, 75);
 }
 
 img
@@ -10,8 +10,21 @@ img
 
 judul
 {
-  color: #ff00ff;
+  color:rgb(15, 221, 214) ;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 50px;
   font-family: pacifico;
+}
+
+.subjudul{
+  color: rgb(6, 210, 168);
+  font-family: sans-serif;
+  font-size: 35px;
+
+}
+
+.teks{
+  font-family: sans-serif;
+  font-size: 25px;
+  color: rgb(50, 157, 149)
 }
