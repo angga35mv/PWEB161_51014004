@@ -1,0 +1,10 @@
+20/10/2016
+Tugas ke 2
++10 tugas siap
++4 lagu tambahan
+-9 opsi tag width
+
+27/10/2016
+tambahan ke CSS
++10 tugas dikerjakan
++19 pemanggilan class 10subjudul,9teks
