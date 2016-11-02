@@ -1,0 +1,67 @@
+.latar
+{
+  max-width: 1080px;
+	border:3px;
+	margin: 40px auto;
+	border-radius: 0px;
+	background:#4d31bf;
+	overflow: hidden;
+	padding: 0px;
+}
+body
+{
+  background: url(latar.jpg)
+  no-repeat fixed top center;
+  background-size: cover;
+}
+.judulkonten,
+.lagu
+{
+	float: left;
+	padding:10px;
+	margin: 10px;
+  font-family: Comic Sans MS;
+}
+
+.judul
+{
+  background-color: #rgb(21, 35, 166);
+  text-align: center;
+  font-family: pacifico;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+hr
+{
+  border: 3px;
+}
+
+img
+{
+text-align: center;
+width: 300px;
+}
+
+.judulkonten
+{
+  font-size: 30px;
+	width: 250px;
+	background: #66c2ff;
+	border-top: 10px solid #0099ff;
+}
+
+.lagu
+{
+  font-size: 25px;
+	width: 650px;
+	background: #ff9999;
+	text-align: center;
+	border-top: 10px solid #ff4d4d;
+}
+
+ul,ol
+{
+list-style: none;
+}
