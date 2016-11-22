@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Basket</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="carousel.css" rel="stylesheet">
+    <link href="../../dist/css/style.css" rel="stylesheet">
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+      <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html"> <span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-equalizer" aria-hidden="true"></span> Kegiatan UKM</a></li>
+        <li><a href="#visi"><span class="glyphicon glyphicon-pawn" aria-hidden="true"></span> Visi</a></li>
+        <li><a href="#misi"><span class="glyphicon glyphicon-pawn" aria-hidden="true"></span> Misi</a></li>
+        <li><a href="#words"><span class="glyphicon glyphicon-warning-sign" aria-hidden="true"></span> Words :)</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Daftar<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="registrasi.html">Registrasi Anggota</a></li>
+            <li><a href="registrasilatihan.html">Register Latihan Khusus</a></li>
+          </ul>
+        </li>
+      </ul>
+      
+      <ul class="nav navbar-nav navbar-right">
+      	<li><a href="#about"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Pengurus</a></li>
+        <li><a href="F:\Downloads\web\test\examples\carousel\registrasi.html">JOIN</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img class="first-slide" src="img\18025.jpg" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 class="ssb">WELCOME</h1>
+              <p class="ssb">Selamat datang di web UKM Kharisma Dream Basket Club (KDBC). <BR> Ini adalah website mengenai informasi dari ukm basket kharisma. <br>Disini anda dapat mendaftar untuk 
+              menjadi anggota ukm, melihat informasi kegiatan ukm, serta mengetahui lebih dalam tentang ukm basket ! <br>Salam Atlit !</p>
+              <p><a class="btn btn-lg btn-primary" href="registrasi.html" role="button">Gabung Sekarang !</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="img/3.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 class="ssb">CLUB'S WORKS</h1>
+              <p class="ssb">Berikut merupakan beberapa kegiatan yang dilakukan oleh KDBC.</p>
+              <p><a data-toggle="modal" class="btn btn-lg btn-primary" href="#modal2" role="button">Lihat Lebih Banyak</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="img/1111.jpg" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 class="ssb">Special Training</h1>
+              <p class="ssb">Liburan akan segera datang ! Tepatnya bulan desember mendatang kampus akan libur untuk 2 hingga 3 minggu, KDBC akan mengadakan spesial training bagi kalian yang liburannya hanya dirumah dan mau membuat kemampuan serta skill meningkat. So, tunggu apa lagi ?</p>
+              <p><a class="btn btn-lg btn-primary" href="registrasilatihan.html" role="button">Gabung latihan</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+    <!-- /.carousel -->
+
+<div id="mymodal" class="modal fade" role="dialog">
+  <div class="ppc" class="modal-dialog">
+    
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h2 class="ppt" class="modal-title">Welcome.</h2>
+      </div>
+      <div class="modal-body">
+        <p class="ppt2">We can have no progress without change, whether it be basketball or anything else.<br> -John Wooden</p>
+      </div>
+      <div class="modal-footer">
+      <center>
+        <button type="button" class="btn btn-default" data-dismiss="modal">
+          Tutup
+        </button>
+      </center>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+		<hr id="about" class="featurette-divider">
+    	<div  class="container marketing">
+		
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/18560.jpg" width="140" height="140">
+          <h2>Founder<br>
+          <hr class="star-light">
+          <span class="glyphicon glyphicon-apple" aria-hidden="true"></span>
+          Gabriel Irfon E</h2>
+          <p class="pe">I always wanted to be a basketball player. Nothing more, nothing less. <br>-Dirk Nowitzki</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/18559.jpg" width="140" height="140">
+          <h2>Ketua<br>
+          <hr class="star-light">
+          <span class="glyphicon glyphicon-king" aria-hidden="true"></span>
+          Seho wijaya</h2>
+          <p class="pe">I don't know what I'm going to do tomorrow. I just know for sure I'm going to keep playing basketball. <br>-Kevin Durant</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/4.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>About UKM</h2>
+          <hr class="star-light">
+          <p class="pe">A team is like the five fingers on your hand. If you can get them all together, you have a fist. That's how I want you to play.<br> -Mike Krzyzewski</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div ><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+        <br id="visi">
+      <!-- START THE FEATURETTES -->
+
+      <hr  class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading"><span class="glyphicon glyphicon-pawn" aria-hidden="true"></span> VISI <span class="text-muted">Every Person must have a clear vision!</span></h2>
+          <p class="lead">Mewujudkan mahasiswa STMIK Kharisma yang cerdas, ulet, kreatif, dinamis dan mampu bersaing dalam bidang olahraga dan akademik.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" src="img/18560.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <br id="misi">
+      <hr   class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading"><span class="glyphicon glyphicon-pawn" aria-hidden="true"></span> Misi <span class="text-muted">For what you live?</span></h2>
+          <p class="lead">Memasyaratkan olahraga basket di Kampus - peningkatan kualitas dan kuantitas anggota - meningkatkan pengetahuan terhadap teknologi terbaru - penyelenggaran pelatihan keterampilan bagi anggota</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" src="img/18559.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <br id="words">
+      <hr  class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading"><span class="glyphicon glyphicon-alert" aria-hidden="true"></span> Words. <span class="text-muted">Checkmate.</span></h2>
+          <p class="lead">True basketball coaches are great teachers and you do not humiliate, you do not physically go after, you do not push or shove, you do not berate, if you are a true coach. If you humiliate or curse them, that won't do it. Coaches like that are not coaches. -Morgan Wootten</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" src="img/123.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+<div>
+<div class="modal fade" id="modal2" tabindex="-1" role="dialog"
+ aria-labelledby="mymodallabel" aria-hidden="true" >
+   <div class="modal-dialog">
+     <div class="modal-content">
+       <div class="modal-header">
+       <button type="button" class="close"
+       data-dismiss="modal" aria-hidden="true">&times;</button>
+       <h4 class="modal-title">aaaaasda</h4>
+     </div>
+     <div class="modal-body">
+       asdasda asfasfa fa sfas f asf a 
+     </div>
+     <div class="modal-footer">
+       <button type="button" class="btn btn-default"
+       data-dismiss="modal">close</button>
+     </div>
+   </div>
+ </div>
+</div>
+      <!-- FOOTER -->
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2016 Company, Inc. &middot; </p>
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script>
+      $('#mymodal').modal('show');
+    </script>
+  </body>
+</html>
