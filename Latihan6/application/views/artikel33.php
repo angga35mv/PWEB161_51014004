@@ -1,0 +1,3 @@
+
+<h2>Kapan Kita Dapat Menjadi Manusiawi Dan Lebih Peduli?</h2>
+<p>Hujan deras hampir setiap hari mengguyur Kota ini. Seperti biasa, Toni berangkat mencari sesuap nasi dengan menggunakan sepeda motor bututnya. Di jalan, Toni pun bergabung dengan ribuan pengguna jalan bak para ksatria yang menuju medan laga. Ya, di kota besar seperti Antah Berantah ini, jalan layaknya padang kurusetra yang senantiasa menjanjikan suasana perang. Guyuran hujan belum berhenti, bahkan langit pun semakin deras menangis. Di bawah guyuran jutaan meter kubik air, ribuan pengendara motor tumpah ruah di jalanan. Salip sana, salip sini, semua saling berlomba dan tidak ada yang mau mengalah, apalagi memberi kesempatan serta ruang bagi...</p>

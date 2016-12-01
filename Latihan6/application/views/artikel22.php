@@ -1,0 +1,3 @@
+
+<h2>Rahasia Sehat Di Balik Seks</h2>
+<p>Riset yang dilakukan oleh American Association of Retired Persons (AARP) membuktikan bahwa kegiatan seks sangat berhubungan kualitas kesehatan seseorang. Disebutkan bahwa aktivitas seks minimal 1 kali seminggu dapat mencegah beragam penyakit, seperti kanker prostat, tekanan darah tinggi, serangan jantung, diabetes, sakit kepala dan masih banyak yang lain. Lebih lagi, seks secara sehat dan teratur dipercaya dapat meningkatkan sistem imun dalam tubuh serta mengontrol berat badan. Bagaimana semua itu bisa terjadi? Saat melakukan aktivitas seksual, terutama saat orgasme, tubuh memproduksi hormon dehydroepiandrosterone (DHEA) lima kali lebih banyak...</p>

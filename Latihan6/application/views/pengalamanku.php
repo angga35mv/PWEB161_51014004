@@ -1,0 +1,4 @@
+<br>
+<center><h1>Kesan Pengalaman</h1></center>
+<hr>
+<center><p>Nama saya Angga dan saya semester 5 ddi STMIK Kharisma. Pengalaman saya dalam belajar Pemrograman web Sangat bermanfaat. Mata kuliah ini banyak membuka pikiran dan pengetahuan saya akan hal yang baru. mulai dari belajar koding html yang pertama sampai dengan mid kemarin yang ditugaskan membuat web tentang ukm. Saya punya kebiasaan buruk yaitu membuat tugas yang disuruh minggu lalu, pada tepat h-3 atau h-1 dikumpulnya. Sejauh ini saya sangat senang belajar tentang web ini. Akan tetapi sepertinya, Kedepan ini mat kuliah akan sedikit lebih susah dari sebleumnya.</p></center>
